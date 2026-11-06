@@ -1,0 +1,8 @@
+Hi everyone
+we are learning File I/O
+using Python.
+
+Python is a beginner-friendly programming language
+It relies on indentation
+Its massive popularity spans diverse fields
+Tech giants like Google and Netflix
